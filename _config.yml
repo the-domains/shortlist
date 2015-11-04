@@ -1,0 +1,23 @@
+name: shortlist
+favicon: null
+layout_spectrum: 0.9808238379191607
+typography_spectrum: 0.9522301428951323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2471735472790897
+  lightness: 0.30578008270822465
+  saturation: 0.4730713632889092
+  rhythmicContrast: 0.5141440453007817
+purpose: []
